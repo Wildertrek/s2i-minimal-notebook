@@ -681,7 +681,7 @@ markupsafe==2.0.1; python_version >= '3.6' \
 micropipenv==1.2.0 \
     --hash=sha256:275e84b3e8227fb585a050ce4f333539ed1096e76b09340649abca475d3151ca \
     --hash=sha256:54abb2ca3a81d6234283a458c20655d84050154bcb4912646261b2e695605661
-mistune==0.8.4 \
+mistune==2.0.1 \
     --hash=sha256:59a3429db53c50b5c6bcc8a07f8848cb00d7dc8bdb431a4ab41920d201d4756e \
     --hash=sha256:88a1051873018da288eee8538d476dffe1262495144b33ecb586c4ab266bb8d4
 mock==4.0.3; python_version >= '3.6' \
