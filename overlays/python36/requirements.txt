@@ -466,7 +466,7 @@ invectio==0.2.0 \
 ipykernel==5.5.6; python_version >= '3.5' \
     --hash=sha256:4ea44b90ae1f7c38987ad58ea0809562a17c2695a0499644326f334aecd369ec \
     --hash=sha256:66f824af1ef4650e1e2f6c42e1423074321440ef79ca3651a6cfd06a4e25e42f
-ipython==7.16.2; python_version >= '3.6' \
+ipython==7.16.3; python_version >= '3.6' \
     --hash=sha256:2f644313be4fdc5c8c2a17467f2949c29423c9e283a159d1fc9bf450a1a300af \
     --hash=sha256:613085f8acb0f35f759e32bea35fba62c651a4a2e409a0da11414618f5eec0c4
 ipython-genutils==0.2.0 \
