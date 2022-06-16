@@ -517,7 +517,7 @@ jupyter-nbutils==0.1.3 \
 jupyter-require==0.6.1 \
     --hash=sha256:5473bbd3d0ca6e6bcc606281bcaaf7c57c51c2c2bf696c32d451066cb44c1301 \
     --hash=sha256:c1aa042e2c17a2f45978abab74e96a7e0474f44dd138678cc177a0ee281dcc00
-jupyter-server==1.13.0; python_version >= '3.6' \
+jupyter-server==1.17.1; python_version >= '3.6' \
     --hash=sha256:05a96dfc5352adf70e88868b4ab3d1fc13e17bd84daf74d02cc6299098855fda \
     --hash=sha256:608c0cb0cbbaa96a413c4d2427ca77acd14180251a2687831cf31f7648eaa835
 jupyter-server-mathjax==0.2.3; python_version >= '3.6' \
