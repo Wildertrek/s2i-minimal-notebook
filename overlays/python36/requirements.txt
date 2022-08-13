@@ -766,7 +766,7 @@ nbclassic==0.3.4; python_version >= '3.6' \
 nbclient==0.5.9; python_full_version >= '3.6.1' \
     --hash=sha256:8a307be4129cce5f70eb83a57c3edbe45656623c31de54e38bb6fdfbadc428b3 \
     --hash=sha256:99e46ddafacd0b861293bf246fed8540a184adfa3aa7d641f89031ec070701e0
-nbconvert==6.0.7; python_version >= '3.6' \
+nbconvert==6.3.0b0; python_version >= '3.6' \
     --hash=sha256:39e9f977920b203baea0be67eea59f7b37a761caa542abe80f5897ce3cf6311d \
     --hash=sha256:cbbc13a86dfbd4d1b5dee106539de0795b4db156c894c2c5dc382062bbc29002
 nbdime==3.1.1; python_version >= '3.6' \
