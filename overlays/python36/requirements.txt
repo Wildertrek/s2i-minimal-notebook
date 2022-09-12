@@ -781,7 +781,7 @@ nest-asyncio==1.5.4; python_version >= '3.5' \
 notebook==6.4.6 \
     --hash=sha256:5cad068fa82cd4fb98d341c052100ed50cd69fbfb4118cb9b8ab5a346ef27551 \
     --hash=sha256:7bcdf79bd1cda534735bd9830d2cbedab4ee34d8fe1df6e7b946b3aab0902ba3
-oauthlib==3.1.1; python_version >= '3.6' \
+oauthlib==3.2.1; python_version >= '3.6' \
     --hash=sha256:42bf6354c2ed8c6acb54d971fce6f88193d97297e18602a3a886603f9d7730cc \
     --hash=sha256:8f0215fcc533dd8dd1bee6f4c412d4f0cd7297307d43ac61666389e3bc3198a3
 openshift==0.11.0 \
