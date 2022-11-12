@@ -84,7 +84,7 @@ alembic==1.7.5; python_version >= '3.6' \
 anyio==3.4.0; python_full_version >= '3.6.2' \
     --hash=sha256:24adc69309fb5779bc1e06158e143e0b6d2c56b302a3ac3de3083c705a6ed39d \
     --hash=sha256:2855a9423524abcdd652d942f8932fda1735210f77a6b392eafd9ff34d3fe020
-argo-workflows==3.6.1 \
+argo-workflows==6.3.0rc9 \
     --hash=sha256:56d77ad3e0053402f694760011fcfe5ab7de8cb52dfd7b21b9e98c30f6879161 \
     --hash=sha256:f7705f212828712c869d17a1ff6bd39cf51af6c51a55e8f668c7f94601d09453
 argon2-cffi==21.2.0; python_version >= '3.6' \
@@ -453,7 +453,7 @@ ipykernel==6.6.0; python_version >= '3.7' \
 ipynbname==2021.3.2; python_version >= '3.4' and python_full_version < '4.0.0' \
     --hash=sha256:aaf6ab2fcbc68ab6c4c6ba924b57991a388ccc1c8fae782f2433340a40743dfe \
     --hash=sha256:cf7bae999005dce012738d09610e69a47acd765797c0365c803f96c21ea2f32b
-ipython==7.30.1; python_version >= '3.7' \
+ipython==7.31.1; python_version >= '3.7' \
     --hash=sha256:cb6aef731bf708a7727ab6cde8df87f0281b1427d41e65d62d4b68934fa54e97 \
     --hash=sha256:fc60ef843e0863dd4e24ab2bb5698f071031332801ecf8d1aeb4fb622056545c
 ipython-genutils==0.2.0 \
@@ -482,7 +482,7 @@ jupyter-contrib-core==0.3.3 \
 jupyter-contrib-nbextensions==0.5.1 \
     --hash=sha256:2c071f0aa208c569666f656bdc0f66906ca493cf9f06f46db6350db11030ff40 \
     --hash=sha256:eecd28ecc2fc410226c0a3d4932ed2fac4860ccf8d9e9b1b29548835a35b22ab
-jupyter-core==4.9.1; python_version >= '3.6' \
+jupyter-core==4.11.2; python_version >= '3.6' \
     --hash=sha256:1c091f3bbefd6f2a8782f2c1db662ca8478ac240e962ae2c66f0b87c818154ea \
     --hash=sha256:dce8a7499da5a53ae3afd5a9f4b02e5df1d57250cf48f3ad79da23b4778cd6fa
 jupyter-highlight-selected-word==0.2.0 \
@@ -777,7 +777,7 @@ nest-asyncio==1.5.4; python_version >= '3.5' \
 notebook==6.4.6 \
     --hash=sha256:5cad068fa82cd4fb98d341c052100ed50cd69fbfb4118cb9b8ab5a346ef27551 \
     --hash=sha256:7bcdf79bd1cda534735bd9830d2cbedab4ee34d8fe1df6e7b946b3aab0902ba3
-oauthlib==3.1.1; python_version >= '3.6' \
+oauthlib==3.2.1; python_version >= '3.6' \
     --hash=sha256:42bf6354c2ed8c6acb54d971fce6f88193d97297e18602a3a886603f9d7730cc \
     --hash=sha256:8f0215fcc533dd8dd1bee6f4c412d4f0cd7297307d43ac61666389e3bc3198a3
 openshift==0.11.0 \
