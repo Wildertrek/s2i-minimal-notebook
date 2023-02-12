@@ -453,7 +453,7 @@ ipykernel==6.6.0; python_version >= '3.7' \
 ipynbname==2021.3.2; python_version >= '3.4' and python_full_version < '4.0.0' \
     --hash=sha256:aaf6ab2fcbc68ab6c4c6ba924b57991a388ccc1c8fae782f2433340a40743dfe \
     --hash=sha256:cf7bae999005dce012738d09610e69a47acd765797c0365c803f96c21ea2f32b
-ipython==7.30.1; python_version >= '3.7' \
+ipython==8.10.0; python_version >= '3.7' \
     --hash=sha256:cb6aef731bf708a7727ab6cde8df87f0281b1427d41e65d62d4b68934fa54e97 \
     --hash=sha256:fc60ef843e0863dd4e24ab2bb5698f071031332801ecf8d1aeb4fb622056545c
 ipython-genutils==0.2.0 \
