@@ -529,7 +529,7 @@ jupyter-telemetry==0.1.0; python_version >= '3.5' \
 jupyterhub==1.3.0 \
     --hash=sha256:05ff701209c340c792cd103606c448c52ace772ece858380905ddd1a2136ee8e \
     --hash=sha256:4ad6120410adb80715a0004386fdbe969987223dd64c76f62365f49cb95a0341
-jupyterlab==3.0.18 \
+jupyterlab==3.6.7 \
     --hash=sha256:0e4bb4b89014607a16658b54f13df2f0af14f3c286109a0e14d5a46cbbe28caf \
     --hash=sha256:4a8d2e96711cd35ce0e0c0c826c8991834daf51a2e7f7908413cdeace4fc13f3
 jupyterlab-git==0.30.0 \
