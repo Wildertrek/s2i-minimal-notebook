@@ -1248,3 +1248,4 @@ yaspin==2.1.0; python_full_version >= '3.6.2' and python_version < '4' \
 zipp==3.6.0; python_version < '3.10' \
     --hash=sha256:71c644c5369f4a6e07636f0aa966270449561fcea2e3d6747b8d23efaa9d7832 \
     --hash=sha256:9fe5ea21568a0a70e50f273397638d39b03353731e6cbbb3fd8502a33fec40bc
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
