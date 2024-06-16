@@ -234,7 +234,7 @@ commonmark==0.9.1 \
     --hash=sha256:da2f38c92590f83de410ba1a3cbceafbc74fee9def35f9251ba9a971d6d66fd9
 contextvars==2.4; python_version < '3.7' and python_version < '3.7' \
     --hash=sha256:f38c908aaa59c14335eeea12abea5f443646216c4e29380d7bf34d2018e2c39e
-cryptography==36.0.0; python_version >= '3.6' \
+cryptography==42.0.8; python_version >= '3.6' \
     --hash=sha256:2049f8b87f449fc6190350de443ee0c1dd631f2ce4fa99efad2984de81031681 \
     --hash=sha256:231c4a69b11f6af79c1495a0e5a85909686ea8db946935224b7825cfb53827ed \
     --hash=sha256:24469d9d33217ffd0ce4582dfcf2a76671af115663a95328f63c99ec7ece61a4 \
