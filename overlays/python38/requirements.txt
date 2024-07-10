@@ -1243,6 +1243,6 @@ yarl==1.7.2; python_version >= '3.6' \
 yaspin==2.1.0; python_full_version >= '3.6.2' and python_full_version < '4.0.0' \
     --hash=sha256:c8d34eca9fda3f4dfbe59f57f3cf0f3641af3eefbf1544fbeb9b3bacf82c580a \
     --hash=sha256:d574cbfaf0a349df466c91f7f81b22460ae5ebb15ecb8bf9411d6049923aee8d
-zipp==3.6.0; python_version < '3.10' \
+zipp==3.19.1; python_version < '3.10' \
     --hash=sha256:71c644c5369f4a6e07636f0aa966270449561fcea2e3d6747b8d23efaa9d7832 \
     --hash=sha256:9fe5ea21568a0a70e50f273397638d39b03353731e6cbbb3fd8502a33fec40bc
