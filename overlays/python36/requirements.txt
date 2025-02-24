@@ -847,7 +847,7 @@ pyasn1-modules==0.2.8 \
 pycparser==2.21 \
     --hash=sha256:8ee45429555515e1f6b185e78100aea234072576aa43ab53aefcae078162fca9 \
     --hash=sha256:e644fdec12f7872f86c58ff790da456218b10f863970249516d60a5eaca77206
-pyelftools==0.27 \
+pyelftools==0.31 \
     --hash=sha256:5609aa6da1123fccfae2e8431a67b4146aa7fad5b3889f808df12b110f230937 \
     --hash=sha256:cde854e662774c5457d688ca41615f6594187ba7067af101232df889a6b7a66b
 pygments==2.10.0; python_version >= '3.5' \
