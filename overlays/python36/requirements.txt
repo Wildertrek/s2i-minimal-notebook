@@ -532,7 +532,7 @@ jupyterhub==1.3.0 \
 jupyterlab==3.0.18 \
     --hash=sha256:0e4bb4b89014607a16658b54f13df2f0af14f3c286109a0e14d5a46cbbe28caf \
     --hash=sha256:4a8d2e96711cd35ce0e0c0c826c8991834daf51a2e7f7908413cdeace4fc13f3
-jupyterlab-git==0.30.0 \
+jupyterlab-git==0.51.1 \
     --hash=sha256:2f5984fb10216ffbcb3e25611a6bd296fc94b116bd0cb86dd921498bd297bf14 \
     --hash=sha256:75eda44f84af96a7366d9a93eee9e69ca1bc5a534db40b4839aa4d503a299aa0
 jupyterlab-pygments==0.1.2 \
