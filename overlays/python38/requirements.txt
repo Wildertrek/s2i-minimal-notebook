@@ -812,7 +812,7 @@ prompt-toolkit==3.0.23; python_full_version >= '3.6.2' \
 ptyprocess==0.7.0; os_name != 'nt' \
     --hash=sha256:4b41f3967fce3af57cc7e94b888626c18bf37a083e3651ca8feeb66d492fef35 \
     --hash=sha256:5c5d0a3b48ceee0b48485e0c26037c0acd7d29765ca3fbb5cb3831d347423220
-pyasn1==0.4.8 \
+pyasn1==0.6.2 \
     --hash=sha256:014c0e9976956a08139dc0712ae195324a75e142284d5f87f1a87ee1b068a359 \
     --hash=sha256:03840c999ba71680a131cfaee6fab142e1ed9bbd9c693e285cc6aca0d555e576 \
     --hash=sha256:0458773cfe65b153891ac249bcf1b5f8f320b7c2ce462151f8fa74de8934becf \
