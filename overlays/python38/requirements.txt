@@ -762,7 +762,7 @@ nbclassic==0.3.4; python_version >= '3.6' \
 nbclient==0.5.9; python_full_version >= '3.6.1' \
     --hash=sha256:8a307be4129cce5f70eb83a57c3edbe45656623c31de54e38bb6fdfbadc428b3 \
     --hash=sha256:99e46ddafacd0b861293bf246fed8540a184adfa3aa7d641f89031ec070701e0
-nbconvert==6.3.0; python_version >= '3.7' \
+nbconvert==7.17.0; python_version >= '3.7' \
     --hash=sha256:5e77d6203854944520105e38f2563a813a4a3708e8563aa598928a3b5ee1081a \
     --hash=sha256:8f23fbeabda4a500685d788ee091bf22cf34119304314304fb39f16e2fc32f37
 nbdime==3.1.1; python_version >= '3.6' \
